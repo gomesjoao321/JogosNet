@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using UsuarioNet.Data.Usuario;
 using UsuarioNet.Services;
-using UsuarioNet.Data.Requests;
+using UsuariosApi.Data.Requests;
 
 namespace UsuarioNet.Controllers
 {
